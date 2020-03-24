@@ -8,7 +8,7 @@
 &emsp;&emsp;
   In this case, you see a school badge in close and a building in distance.<br>
 &emsp;&emsp;
-  This algorithm is stiil vaild for grayscale. Due to exclusion of color, we even observe a better result.<br>.
+  This algorithm is still vaild for grayscale. Due to exclusion of color, we even observe a better result.<br>.
   ![GrayscaleResult](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/figures/result1Gray.jpg)<br>
   ![GrayscaleMagnitude](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/figures/result2Gray.jpg)<br>
 &emsp;&emsp;
