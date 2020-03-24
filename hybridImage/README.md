@@ -12,4 +12,10 @@
   ![GrayscaleResult](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/figures/result1Gray.jpg)<br>
   ![GrayscaleMagnitude](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/figures/result2Gray.jpg)<br>
 &emsp;&emsp;
-  If you want to know more theory, please download [this](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/hybridImages.pdf).
+  If you want to know more theory, please download [this](https://github.com/NK-CS-ZZL/computer-vision/blob/master/hybridImage/hybridImages.pdf).<br>
+&emsp;&emsp;
+  You should install opencv and a C++ compiler(or a IDE supporting C++) first. And my running environment lists below.<br>
+#### Environment
+- OS: Windows 10
+- Opencv: [ver 4.2.0](https://sourceforge.net/projects/opencvlibrary/files/4.2.0/opencv-4.2.0-vc14_vc15.exe/download) (this link is for windows. If you use linux, you can find linux version in [official website](https://opencv.org/)).
+- IDE: visual studio 2019
